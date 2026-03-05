@@ -1,7 +1,9 @@
 # ExamHelp
 
 ExamHelp is an AI-powered study assistant that reads handwritten notes and answers questions based only on those notes.
+## Demo
 
+![ExamHelp Demo](Screenshot 2026-03-05 155321.png)
 ## Features
 
 - Upload handwritten PDFs
